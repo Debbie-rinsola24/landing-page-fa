@@ -1,0 +1,291 @@
+html, body{
+    height: auto;
+    width: auto;
+}
+
+/*navbar*/
+nav {
+    height: 10vh;
+    width: auto;
+    padding: 8px 100px 25px 60px;
+    background-color: #F6A51A;;
+}
+ul {
+    display: inline;
+}
+h2 {
+    font-family: Lora sans-serif;
+    
+    font-size: 32px;
+    font-weight: 700;
+}
+li {
+    color: #F9F3F3;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 19px;
+    padding: 15px;
+}
+.btn {
+    border-radius:20px;
+}
+
+
+/*Section1*/
+/* button */
+.butt {
+    background-color: #F6A51A;
+    font-family: Roboto sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height: 70px;
+    border-radius: 35px;
+    margin: 15px;
+   
+    
+
+}
+
+/*row*/
+.section1{
+    margin-top: 100px;
+
+}
+ /* h1 */
+ .first {
+     font-family: Lora;
+     font-weight: 700;
+     line-height: 90px;
+     font-size: 64px;
+     font-display: bold;
+ }
+ p  {
+     font-family: Roboto sans-serif;
+     font-weight: 500;
+     font-display: bold;
+     font-size: 24px;
+ }
+ span{
+     font-size: 10px;
+ }
+
+/*img*/
+.img1 {
+    margin-bottom: 250px;
+}
+.playstore{
+    width: 25px;
+}
+.playstore1 {
+    width: 20px;
+    height: 30px;
+}
+.circle {
+    position: absolute;
+    width: 440px;
+    height: 430px;
+    margin-top: 100px;
+}
+.iphone{
+    position: absolute;
+    width: 550px;
+   height: 680px;
+   margin-top: auto;
+   margin-left: 500x;
+   
+}
+
+/*section2*/
+.section2 {
+    margin-top: 140px;
+    color: black ;
+    text-align: center;
+    
+    
+}
+.box1, .box2, .box3 {
+    width: 230px;
+    height: 150x;
+    border: 2px solid #F6A51A;
+    border-radius: 30px;
+
+}
+
+/*section3*/
+.section3 {
+   margin-top: 50px;
+}
+
+.but3 {
+    background-color: #F6A51A;
+    width: 150px;
+    height: 60px;
+}
+
+/*img---section3*/
+.circle1  {
+    position: absolute;
+    width: 550px;
+    height: 430px;
+}
+.iphone1 {
+    position: absolute;
+    width: 550px;
+    height: 680px;
+}
+.sect-img {
+    margin-top: 150px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 270;
+    font-size:  50px;
+}
+.parag {
+    font-family:  Roboto, sans-serif;
+    font-size: 17px;
+    font-weight: 180;
+}
+
+/*section4*/
+
+.section4 {
+    margin-top: 150px;
+    text-align: center;
+    line-height: 30px;
+} 
+.h1 {
+    font-family: Lora;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+/*section5*/
+.section5 {
+    margin-top: 80px;
+    justify-content: center;
+  
+}
+/*images*/
+.img1cir {
+    position: absolute;
+    width: 50px;
+   height: 50px;
+   margin-left:  15px;
+  margin-top: 3px; 
+
+}
+.img1para1 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left:  25px;
+  margin-top: 10px;  
+}
+
+
+/*section6*/
+.section6 {
+    font-family: Roboto ;
+    margin-top: 150px;
+    text-align: center;
+    line-height: 30px;
+} 
+.h1sec6 {
+    font-family: Lora;
+    font-size: 60px;
+    font-weight: 700;
+}
+/*p*/
+.psection6 {
+    font-size: 30px;
+}
+
+
+/*section7*/
+.section7{
+    margin-top: 100px;
+    justify-self: center;
+}
+.fac1, .fac2, .fac3 {
+    background-color: #F6A51A;
+    color:#F9F3F3;
+    border-radius: 13px;
+    margin: 8px;
+    text-align: center;
+    width: auto;
+    height: 350px;
+}
+/*img*/
+.sect7img {
+    border:  12px solid white;
+    border-radius: 100px;
+}
+
+/*section8*/  /*section9*/ /*section11*/
+.section8, .section9, .section11{
+    margin-top: 120px;
+    text-align: center;
+}
+
+/*section10*/
+.section10{
+    margin-top: 100px;
+    color: black ;
+    text-align: center;
+}
+.box1, .box2, .box3 {
+    margin-top: 3px;
+    width: 330px;
+    height: 150x;
+    border: 2px solid #F6A51A;
+    border-radius: 30px;
+
+}
+.left1{
+   margin: auto 190px 10px 1px;
+}
+
+/*section12*/
+.section12{
+    margin-top: 80px;
+    text-align: center;
+
+}
+.but{
+    align-self: center;
+}
+
+/*section13*/
+.section13{
+    width: 620px;
+    height: 70px;
+}
+
+/*foooter*/
+footer {
+    background-color: #F6A51A;
+    color: white;
+    margin-top: 15px;
+    height: 280px;
+}
+.foot1 {
+    text-decoration: none;
+}
+.footimg {
+
+    background-color: white;
+}
+      
+/*media query*/
+@media screen and (max-width: 0px ) {
+  nav {
+    height: 16vh;
+    padding: 5px  10px 10px 30px;
+}
+ul {
+    display: inline;
+}
+
+}
+
+
